@@ -1,0 +1,1 @@
+GET http://api.weatherapi.com/v1/current.json?key=6657507803734d13b0b63629241801&q=shymkent
